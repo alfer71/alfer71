@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 I have experience with technical skills, with great knowledge of current and emerging technologies. And excellent skills in troubleshooting and creating new environments, providing powerful automation solutions across a variety of technology domains.
 Like to share my knowledge to the team and learn every day. 
