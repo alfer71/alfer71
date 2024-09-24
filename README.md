@@ -1,6 +1,4 @@
-### Hi there 👋, Alberto Fernandez
-#### A passionate Senior Unix / Linux SysAdmin
-![A passionate Senior Unix / Linux SysAdmin](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Header](./your-header-image-name.png)
 
 I have experience with technical skills, with great knowledge of current and emerging technologies. And excellent skills in troubleshooting and creating new environments, providing powerful automation solutions across a variety of technology domains.
 Like to share my knowledge to the team and learn every day. 
