@@ -6,13 +6,17 @@ Like to share my knowledge to the team and learn every day.
 Skills:
 * Tools
 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-Advanced-green)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![prometheus](https://img.shields.io/badge/prometheus%20-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F15A29?&style=for-the-badge&logo=grafana&logoColor=white)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-Expert-blue)
+![Docker](https://img.shields.io/badge/Docker-Advanced-green)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-orange)
 
 * Clouds
 
@@ -43,8 +47,8 @@ Skills:
 - 🔭 I’m currently working on Ellucian 
 - 📝 I regularly write articles on [https://alfertech.blogspot.com/](https://alfertech.blogspot.com/)
 - 💬 Ask me about Linux, Docker, Ansible and New Technology 
-- 📫 How to reach me: alderdevops@gmail.com 
-- 📄 Know about my experiences: [alfer WebPage](alfer.io)
+- 📫 How to reach me: alferdevops@gmail.com 
+- 📄 Know about my experiences: [alfer Web Page](alfer.io)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alfer71)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alfer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alfertech.blogspot.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](alfer#6539)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](https://www.linux.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/manjaro.svg' alt='manjaro' height='40'>](https://manjaro.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' height='40'>](https://kubernetes.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg' alt='ansible' height='40'>](https://www.ansible.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](https://www.docker.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redhat.svg' alt='redhat' height='40'>](https://www.redhat.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/openstack.svg' alt='openstack' height='40'>](https://www.openstack.org/)  
