@@ -44,7 +44,7 @@ Skills:
 - 📝 I regularly write articles on [https://alfertech.blogspot.com/](https://alfertech.blogspot.com/)
 - 💬 Ask me about Linux, Docker, Ansible and New Technology 
 - 📫 How to reach me: alderdevops@gmail.com 
-- 📄 Know about my experiences [alfer.com](alfer.com)
+- 📄 Know about my experiences: [alfer WebPage](alfer.io)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alfer71)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alfer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alfertech.blogspot.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](alfer#6539)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](https://www.linux.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/manjaro.svg' alt='manjaro' height='40'>](https://manjaro.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' height='40'>](https://kubernetes.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg' alt='ansible' height='40'>](https://www.ansible.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](https://www.docker.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redhat.svg' alt='redhat' height='40'>](https://www.redhat.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/openstack.svg' alt='openstack' height='40'>](https://www.openstack.org/)  
@@ -53,8 +53,5 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alfer71&show_icons=true)   
 
-![GitHub metrics](https://metrics.lecoq.io/alfer71)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alfer71)  
 
-![Profile views](https://gpvc.arturio.dev/alfer71)  
