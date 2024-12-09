@@ -43,7 +43,7 @@ Skills:
 - 🔭 I’m currently working on Ellucian 
 - 📝 I regularly write articles on [https://alfertech.blogspot.com/](https://alfertech.blogspot.com/)
 - 💬 Ask me about Linux, Docker, Ansible and New Technology 
-- 📫 How to reach me: linuxxroot@gmail.com 
+- 📫 How to reach me: alderdevops@gmail.com 
 - 📄 Know about my experiences [alfer.com](alfer.com)
 
 
@@ -51,9 +51,7 @@ Skills:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfer71)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alfer71&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alfer71)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alfer71&show_icons=true)   
 
 ![GitHub metrics](https://metrics.lecoq.io/alfer71)  
 
