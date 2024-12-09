@@ -7,7 +7,7 @@ Skills:
 * Tools
 
 ![Ansible](https://img.shields.io/badge/ansible-Advanced-green)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-Intermediate-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![prometheus](https://img.shields.io/badge/prometheus%20-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
@@ -15,8 +15,6 @@ Skills:
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-Expert-blue)
-![Docker](https://img.shields.io/badge/Docker-Advanced-green)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-orange)
 
 * Clouds
 
@@ -41,6 +39,7 @@ Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 * Databases
+  
 ![IBM DB2](https://img.shields.io/badge/IBM%20DB2-006699?style=for-the-badge&logo=ibmdb2&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
