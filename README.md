@@ -58,3 +58,4 @@ Like to share my knowledge to the team and learn every day.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alfer71)  
 
+- [How to Automate System Updates with Ansible](https://alfertech.blogspot.com/)
